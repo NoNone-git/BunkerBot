@@ -1,0 +1,7 @@
+aiogram 
+aiosqlite 
+SQLAlchemy 
+python-dotenv 
+cachetools 
+pytz 
+apscheduler
